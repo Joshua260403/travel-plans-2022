@@ -21,5 +21,7 @@ Some plans for a potential trip in 2022
 - Luxembourg
   - ^
 - Belgium
-  - Dinant/Yvoir ?
+  - Dinant
+    - Yvoir
+    - Walzin
 - NL
