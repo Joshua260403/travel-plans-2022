@@ -3,7 +3,7 @@ Some plans for a potential trip in 2022
 
 ### List
 - Germany
-  - Berlin
+  - Kassel
   - (Bayreuth)
 - Czechia
   - Prague
